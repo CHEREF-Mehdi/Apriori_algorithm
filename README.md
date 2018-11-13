@@ -23,6 +23,7 @@ The liste of the rules :
 # About the source code
 
 The apriori algorithm was implemented using php, you will find it in Pages/PHP/Apriori.class.php
+
 The interface is powered by bootstrap.
 
 # References
