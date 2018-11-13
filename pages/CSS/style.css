@@ -1,0 +1,27 @@
+.btn-accueil{
+left: 150px;
+top: 100px;
+}
+
+.btn-accueil button{
+height: 100px !important;
+}
+
+.header-mystyle{
+   background-color: #0ACDB3;
+   border-radius: 5px;
+}
+
+.Scroll{
+    max-height: 350px;
+    max-width: 1000px;
+}
+
+.ScrollPanels{
+    height: 300px;
+    width: 255px;
+}
+
+
+
+

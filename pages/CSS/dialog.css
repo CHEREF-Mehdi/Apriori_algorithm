@@ -1,0 +1,67 @@
+.wbackground{
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top : 0px;
+    left: 0px;
+    background-color: #CECECE;
+    opacity: 0.4;
+    z-index: 9999;
+}
+
+.dlgbox{
+    display: none;
+    position: fixed;
+    width: 420px;
+    z-index: 9999;
+    border-style: solid;
+    border-color: #C0C0C0;
+    border-width: 1px;
+    border-radius: 12px 12px 12px 12px;
+}
+
+/*confirm set/add */
+.dlg-header{
+    background-color: #FFA500;
+    color: white;
+    border-radius: 11px 11px 0px 0px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+}
+/*confirme delete*/
+#dlg-headerDel{
+    background-color: #D80000 ;
+    color: white;
+    border-radius: 11px 11px 0px 0px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+/*confirme delete*/
+#dlg-headersuccess{
+    background-color: #228B22 ;
+    color: white;
+    border-radius: 11px 11px 0px 0px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+.dlg-body{
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    padding: 10px;
+    margin: 0px 00px 0px 00px;
+}
+
+.dlg-footer{
+    background-color: #f2f2f2;
+    text-align: right;
+    border-radius: 0px 0px 11px 11px;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+}

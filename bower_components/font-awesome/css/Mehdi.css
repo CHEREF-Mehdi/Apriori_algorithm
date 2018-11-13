@@ -1,0 +1,89 @@
+#service{
+     position: fixed;
+}
+#menu{
+    position: fixed;
+}
+#con{
+    display: none;
+}
+
+#endadding{
+     width:4.5cm;
+     float: right;
+     margin-left: 2.4cm;
+}
+#cordFour{
+    color: #808080;
+    margin-top:-5px;
+}
+
+.four{
+    float: right;
+    margin-top:-5px;
+    margin-right: 5px;
+}
+.droite{
+    float: right;
+    margin-top:-5px; 
+}
+
+.bas{
+    float: none;
+    margin-top: 2.6cm;
+}
+.cate{
+    float: right;
+    margin-right: 7cm;
+    margin-top: 0cm;
+    margin-left:1cm;
+}
+
+.catAjout{
+    float:none;
+    margin-top: 0.45cm;
+}
+
+.type{
+    margin-top: 0.3cm;
+}
+.lien{
+    color: #0000FF;
+}
+
+
+.sup{
+    color:#FF0000;
+}
+
+.hidden{
+    display: none;
+}
+
+.visible{
+    display: inline;
+}
+
+.search{
+    float: right;
+    margin-right: 13.5cm;
+    margin-top: 0.5cm;
+    
+}
+#showsearch{
+    float: left;
+    margin-left: 18.5cm;
+    margin-top: -0.9cm;
+}
+
+.milieu{
+    margin-top: 0.5cm;
+}
+#schowsarticleinput{
+    width:18cm;
+}
+
+.disabledbutton {
+    pointer-events: none;
+    opacity: 0.6;
+}
