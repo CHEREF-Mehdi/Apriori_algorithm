@@ -198,7 +198,7 @@ $Conf=$_POST['confiance'];
                                 <div class="form-group">
                                     
                                     <div class="form-group" id="div_nbrLigne">
-                                        <label class="control-label" for="nbrLigne">Instance/Rows</label>
+                                        <label class="control-label" for="nbrLigne">Instance/Trasaction/Rows</label>
                                         <input type="number" step="any" min="1"  class="form-control" id="nbrLigne" name="nbrLigne" placeholder="0,00" required="true"/>
                                     </div>
                                     
