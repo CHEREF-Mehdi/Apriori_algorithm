@@ -4,15 +4,26 @@ Apriori [1] is an algorithm for frequent item set mining and association rule le
 
 # About the solution
 
+You first enter number of trasaction and itemset to create a random data matrix
+
 ![alt text](https://github.com/CHEREF-Mehdi/Apriori_algorithm/blob/master/ImageForReadMe/EnterData.PNG)
+
+The data matrix :
 
 ![alt text](https://github.com/CHEREF-Mehdi/Apriori_algorithm/blob/master/ImageForReadMe/DataMatrix.PNG)
 
+The liste of the Frequent Itemset :
+
 ![alt text](https://github.com/CHEREF-Mehdi/Apriori_algorithm/blob/master/ImageForReadMe/frequentItemset.PNG)
+
+The liste of the rules :
 
 ![alt text](https://github.com/CHEREF-Mehdi/Apriori_algorithm/blob/master/ImageForReadMe/Rules.PNG)
 
+# About the source code
 
+The apriori algorithm was implemented using php, you will find it in Pages/PHP/Apriori.class.php
+The interface is powered by bootstrap.
 
 # References
 
