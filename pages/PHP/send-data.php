@@ -1,5 +1,5 @@
 <?php
-    require_once('Matrice.class.php');
+    require_once('Apriori.class.php');
     
     if (isset($_POST['nbrLigne'],$_POST['nbrColone'],$_POST['support'],$_POST['confiance'])){
         $nbrL= $_POST['nbrLigne'];

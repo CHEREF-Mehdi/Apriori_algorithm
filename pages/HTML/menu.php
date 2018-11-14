@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 require_once("../PHP/Element.class.php");
-require_once("../PHP/Matrice.class.php");
+require_once("../PHP/Apriori.class.php");
 require_once("../PHP/Rule.class.php");
 set_time_limit(0);
 $nbrL= $_POST['nbrLigne'];
