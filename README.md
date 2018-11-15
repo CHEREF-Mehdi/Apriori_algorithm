@@ -8,7 +8,7 @@ The completion date of this project : May 2017
 
 The time of publication in Github : 13 November 2018
 
-You should first specify how much trasaction and itemset to create a random data matrix
+You should first specify how much trasaction and itemset you want to create in order to setup a random data matrix
 
 ![alt text](https://github.com/CHEREF-Mehdi/Apriori_algorithm/blob/master/ImageForReadMe/EnterData.PNG)
 
