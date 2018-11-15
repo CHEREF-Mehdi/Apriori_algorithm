@@ -26,7 +26,7 @@ The liste of the rules :
 
 # About the source code
 
-The apriori algorithm was implemented using php, you can find it in Pages/PHP/Apriori.class.php
+The apriori algorithm was implemented using php, you can find it at : Pages/PHP/Apriori.class.php
 
 The interface is powered by bootstrap.
 
